@@ -10,7 +10,7 @@ ____
 - [Were You Really Reading?](https://github.com/nourshoreibah/ai_quiz_generator)
 #### Hackathon Projects:
 - [House Finder AI](https://github.com/nourshoreibah/House-Finder-AI)
-#### Classwork Projects
+#### Classwork:
 - [Image Seam Remover](https://github.com/nourshoreibah/Image-Seam-Remover)
 ____
 #### Currently working on:

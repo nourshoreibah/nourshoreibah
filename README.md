@@ -1,10 +1,10 @@
-## Nour Shoreibah - 2nd Year CS/Math Student at Northeastern University
+## Nour Shoreibah's Github Repository
 
 Hi! My name is Nour Shoreibah. I'm a 2nd year CS and Math student at Northeastern University.
 Thank you for taking the time to look at my projects. Please let me know if you have any questions or feedback.
 ____
 Currently working on:
-- AiQuizGenerator:
+- [AiQuizGenerator](https://github.com/nourshoreibah/ai_quiz_generator):
   - Fine-tuning and deploying an open LLM to handle quiz generation (replacing OpenAI GPT 3.5)
 
 

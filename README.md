@@ -13,11 +13,6 @@ ____
 #### Classwork:
 - [Image Seam Remover](https://github.com/nourshoreibah/Image-Seam-Remover)
 ____
-#### Currently working on:
-- [Were You Really Reading?](https://github.com/nourshoreibah/ai_quiz_generator):
-  - Fine-tuning and deploying an open LLM to handle quiz generation (replacing OpenAI GPT 3.5)
-
-
 <!--
 **nourshoreibah/nourshoreibah** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

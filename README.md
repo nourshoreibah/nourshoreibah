@@ -6,11 +6,11 @@ I'm a 2nd year CS and Math student at Northeastern University 🖥️📘
 
 Thank you for taking the time to look at my projects. Please let me know if you have any questions or feedback.
 ____
-#### Personal Projects:
+#### Selected Personal Project:
 - [Were You Really Reading?](https://github.com/nourshoreibah/ai_quiz_generator)
-#### Hackathon Projects:
+#### Selected Hackathon Project:
 - [House Finder AI](https://github.com/nourshoreibah/House-Finder-AI)
-#### Classwork:
+#### Selected Course Project:
 - [Image Seam Remover](https://github.com/nourshoreibah/Image-Seam-Remover)
 ____
 <!--

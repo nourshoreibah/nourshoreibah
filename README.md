@@ -6,8 +6,10 @@ I'm a 3rd year CS and Math student at Northeastern University 🖥️📘
 
 Thank you for taking the time to look at my projects. Please let me know if you have any questions or feedback.
 ____
-#### Selected Personal Project:
+#### Selected Projects:
+- [NEUBites](https://github.com/Oasis-NEU/f24-group1)
 - [Were You Really Reading?](https://github.com/nourshoreibah/ai_quiz_generator)
+- [Snapstronaut](https://github.com/Alexcchip/Boston-Hacks)
 #### Selected Hackathon Project:
 - [House Finder AI](https://github.com/nourshoreibah/House-Finder-AI)
 #### Selected Course Project:

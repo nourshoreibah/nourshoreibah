@@ -7,8 +7,7 @@ I'm a 3rd year CS and Math student at Northeastern University 🖥️📘
 Thank you for taking the time to look at my projects. Please let me know if you have any questions or feedback.
 ____
 #### Selected Projects:
-- [RoadmapAI](https://apps.apple.com/us/app/roadmapai/id6745912180
-RoadMapAI)
+- [RoadmapAI](https://apps.apple.com/us/app/roadmapai/id6745912180)
 - [NEUBites](https://github.com/Oasis-NEU/f24-group1)
 - [Were You Really Reading?](https://github.com/nourshoreibah/ai_quiz_generator)
 #### Selected Hackathon Project:

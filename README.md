@@ -5,6 +5,8 @@ Hello! My name is Nour Shoreibah 👋🏼
 I'm a CS and Math student at Northeastern University 🖥️📘
 
 Thank you for taking the time to look at my projects. Please let me know if you have any questions or feedback.
+
+Klaviyo Account: https://github.com/nshoreibah-kvyo
 ____
 #### Selected Projects:
 - [RoadmapAI](https://apps.apple.com/us/app/roadmapai/id6745912180) - AI-driven career planning IOS app

@@ -2,7 +2,7 @@
 
 Hello! My name is Nour Shoreibah 👋🏼
 
-I'm a 3rd year CS and Math student at Northeastern University 🖥️📘
+I'm a CS and Math student at Northeastern University 🖥️📘
 
 Thank you for taking the time to look at my projects. Please let me know if you have any questions or feedback.
 ____
